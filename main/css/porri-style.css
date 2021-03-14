@@ -931,7 +931,7 @@ img {
 }
 .section-dash:before {
   content: "";
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.6);
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1119,11 +1119,11 @@ img {
 	service-section
 ***********************************/
 .section-service {
-  background: #f9f5ff;
+  background: #9a9b5d;
   z-index: 1;
 }
 .section-service .single-service-features.box-border {
-  background: #fff;
+  background: rgb(223, 224, 217);
   transition: 0.4s;
   margin-top: 0px;
   -webkit-transition: 0.5s;
@@ -1146,7 +1146,7 @@ img {
   height: 80px;
   line-height: 80px;
   border-radius: 50%;
-  background: #ffdcdc;
+  background: #272e22;
   color: #91713d;
   transition: 0.4s;
   -webkit-transition: 0.4s;
@@ -1360,7 +1360,7 @@ img {
 	ask-question//counter-section
 ***********************************/
 .section-count {
-  background: url(../img/1.jpg) center center/cover no-repeat local;
+  background: url(../img/digital.jpeg) center center/cover no-repeat local;
   -webkit-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
